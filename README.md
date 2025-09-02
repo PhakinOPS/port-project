@@ -8,7 +8,7 @@ It contains:
 
 ---
 
-## ⭐ Task Management API (Main Showcase)
+## Task Management API (Main Showcase)
 ### Features
 - CRUD operations for Task model (`id`, `title`, `description`)
 - Sorting and filtering via Spring Data JPA Specifications
@@ -24,7 +24,7 @@ task/
 
 ### Getting Started
 ```bash
-git clone https://github.com/PhakinOPS/lab-project.git
-cd lab-project/task-api
+git clone https://github.com/PhakinOPS/port-project.git
+cd port-project/
 mvn spring-boot:run
 ```
